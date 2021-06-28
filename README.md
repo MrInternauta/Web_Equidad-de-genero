@@ -14,5 +14,3 @@ This project was develoment with:
 #### Developer 
 -[Felipe Ramirez](https://mrinternauta.com)  (framirez@mrinternauta.com)
 
-#### Preview image
-![Screenshot](/screenshot.png?raw=true)
