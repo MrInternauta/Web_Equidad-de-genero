@@ -1,6 +1,6 @@
 # Equidad-de-genero-Web
 Pagina Web HTML, CSS de equidad de genero (UV)
-* [Preview (Not available yet)](https://mrinternauta.github.io/Equidad-de-genero-Web/)
+* [Preview](https://mrinternauta.github.io/Equidad-de-genero-Web/)
 
 ### Technologies
 
